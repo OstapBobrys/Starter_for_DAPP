@@ -1,35 +1,41 @@
-# Starter for DAPP using: Solidity, React, Hardhat, Ethers.js, Tailwind
+## :cloud: **Starter for DAPP using: Solidity, React, Hardhat, Ethers.js, Tailwind** :cloud:
 
 Speedily develope your decentralized application with this starter kit for free!
 
 Follow the steps below to download, install, and run this project.
 
-# Dependencies
+## **Dependencies** :exclamation:
 
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
 
-NPM: https://nodejs.org
-Hardhat: https://hardhat.org/
-Tailwind CSS: https://tailwindcss.com/
+:chart: NPM: https://nodejs.org
 
-# Step 1. Clone the project
+:chart: Hardhat: https://hardhat.org/
 
-```git clone https://github.com/Daltonic/tailwind_ethers_starter_kit <PROJECT NAME>
+:chart: Tailwind CSS: https://tailwindcss.com/
+
+## **Step 1. Clone the project** :exclamation:
+
+```
+git clone https://github.com/Daltonic/tailwind_ethers_starter_kit <PROJECT NAME>
 ```
 
-# Step 2. Install dependencies
+## **Step 2. Install dependencies** :exclamation:
 
-```$ cd <PROJECT NAME>
+```
+$ cd <PROJECT NAME>
 $ npm install # or yarn install
 ```
 
-# Step 3. Start Hardhat Node
+## **Step 3. Start Hardhat Node** :exclamation:
 
-```$ npx hardhat node # or yarn hardhat node
+```
+$ npx hardhat node # or yarn hardhat node
 ```
 
-# Step 4. Run the Front End Application
+## **Step 4. Run the Front End Application** :exclamation:
 
-```npm run start # or yarn start
+```
+$ npm run start # or yarn start
 ```
 

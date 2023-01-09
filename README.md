@@ -17,7 +17,8 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 ## **Step 1. Clone the project** :exclamation:
 
 ```
-git clone https://github.com/Daltonic/tailwind_ethers_starter_kit <PROJECT NAME>
+git clone https://github.com/OstapBobrys/Starter_for_DAPP.git <PROJECT NAME>
+
 ```
 
 ## **Step 2. Install dependencies** :exclamation:
